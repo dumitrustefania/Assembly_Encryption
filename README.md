@@ -72,12 +72,3 @@
 - because of the way the matrix is traversed, if n is odd, the middle 
 	element has to be extracted separately and used as a key for 
 	the last character in the string
-
-
-
-Feedback:
-Misto tema, am invatat multe chestii si am recapitulat altele. M-am prins abia spre sfarsit ca puteam folosi in loc de atatea variabile globale doar [ebp + 8], [ebp + 12] etc. De asemenea m-am prins tarziu si ca puteam sa dau push la registre pe stiva atunci cand stiam ca o sa se strice, in loc sa ma chinui sa folosesc toate registrele ca sa fac diverse operatii. Am vazut totusi ca avem voie cu variabile globale si la tema 3 deci duamnele ajuta.
-
-
-
-
